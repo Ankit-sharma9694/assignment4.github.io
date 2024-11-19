@@ -1,6 +1,4 @@
-# Welcome to My Portfolio
-
-
+Welcome to portfolio
 ## About Me
 
 Hello! I'm **Ankit Sharma**, currently i pursuing my education at **MNIT Jaipur**.
@@ -37,5 +35,4 @@ A detailed group study and presentation on the legal, ethical, and societal impa
 | GitHub      | [ankitsharma-code](https://github.com/ankitsharma-code) |
 
 ## Images
-![car image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiatoday.in%2Fauto%2Fcars%2Fstory%2Fland-rover-defender-130-gets-v8-powertrain-and-new-features-2367152-2023-05-01&psig=AOvVaw2MkDdgaWOH34DZerfgSz7K&ust=1732094864747000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC-xrGK6IkDFQAAAAAdAAAAABAE)
-
+![image](https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg?cs=srgb&dl=pexels-souvenirpixels-414612.jpg&fm=jpg)
